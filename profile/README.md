@@ -35,23 +35,6 @@
 | [**currzy**](https://github.com/anidzen-labs/currzy) | 💱 Free, open-source library for fetching, managing, and converting up-to-date currency rates from multiple reliable sources | ✅ Active |
 | *(more coming soon...)* |  |  |
 
----
-
-### 🧩 Philosophy
-
-> “We believe that technology should feel natural.  
->  Every product we create — is a part of a calm digital flow.”
-
----
-
-### 📬 Contacts
-
-- 🌐 Website: *coming soon*  
-- 💌 Email: **contact@anidzen.com**  
-- 🧑‍💻 GitHub: [@anidzen-labs](https://github.com/anidzen-labs)  
-- 🪶 Founder: [Vahe](https://github.com/vahegalstyan)
-
----
 
 <div align="center">
   <sub>© 2025 Anidzen Labs — Innovation through simplicity.</sub>
