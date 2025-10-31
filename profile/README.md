@@ -10,8 +10,8 @@
   <a href="https://www.linkedin.com/in/vahe-sargsyan-ba5028271">
    <img src="https://img.shields.io/badge/LinkedIn-Vahe%20Sargsyan-blue?style=flat-square" alt="LinkedIn"/>
   </a>
-  <a href="https://t.me/Vahesargsyan2005">
-    <img src="https://img.shields.io/badge/Telegram-@Vahesargsyan2005-blue?style=flat-square" alt="Telegram"/>
+  <a href="https://t.me/AnidzenLabs">
+    <img src="https://img.shields.io/badge/Telegram-@AnidzenLabs-blue?style=flat-square" alt="Telegram"/>
   </a>
   <a href="https://t.me/Vahesargsyan2005">
     <img src="https://img.shields.io/badge/Telegram-@Vahesargsyan2005-blue?style=flat-square" alt="FonderTelegram"/>
