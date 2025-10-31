@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anidzen-labs/currzy">
+      <a href="https://github.com/anidzen-labs/Currzy-js">
         <img src="https://img.icons8.com/color/48/000000/currency-exchange.png" width="32" style="vertical-align:middle"/> 
         <b>currzy</b>
       </a>
@@ -38,38 +38,12 @@
     <td>
        💱 Free library for fetching, managing, and converting up-to-date currency rates
     </td>
-    <td>
-      <i>Version: 1.0.0 | ✅ Active</i>
-    </td>
-  </tr>
-  <tr>
     <td align="center">
-      <a href="https://github.com/anidzen-labs/hentai-voice">
-        <img src="https://img.icons8.com/color/48/000000/microphone.png" width="32" style="vertical-align:middle"/> 
-        <b>Hentai-Voice</b>
-      </a>
-      <br>
-      🎙 Voice synthesis project for anime/hentai content
-      <br>
-      <i>Version: 0.9.0 | 🔄 Ongoing</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/anidzen-labs/hentasis">
-        <img src="https://img.icons8.com/color/48/000000/paint-palette.png" width="32" style="vertical-align:middle"/> 
-        <b>Hentasis</b>
-      </a>
-      <br>
-      🖌 Creative platform for hentai content and community
-      <br>
-      <i>Version: 0.5.0 | 🔄 Ongoing</i>
+      <img src="https://img.shields.io/npm/v/currzy-js?color=blue&label=version" alt="npm version"/>
+      ✅ Active
     </td>
   </tr>
 </table>
-
-
-
 
 ---
 
