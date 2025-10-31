@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-   Anidzen Labs — технологическая студия, создающая современные open-source решения, продукты и инструменты для любых целей. Мы объединяем минимализм, скорость и инновации, превращая идеи в простые, мощные и эстетичные цифровые продукты.
+   Anidzen Labs is a technology studio creating modern open-source solutions, products, and tools for any purpose. We combine minimalism, speed, and innovation to turn ideas into simple, powerful, and elegant digital products.
 </div>
 
 ---
