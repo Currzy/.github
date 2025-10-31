@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/anidzen/TRANSPARENT_WHITE_RING.png" height="100px">
   <h1><img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/anidzen/TRANSPARENT_TRANSPARENT_RING.png" height="20px"/> Anidzen Labs <img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/anidzen/TRANSPARENT_TRANSPARENT_RING.png" height="20px"/></h1> 
 </div>
-### 🌍 About Us
 
 **Anidzen Labs** — это технологическая студия, создающая современные open-source решения, продукты и инструменты для разработчиков и бизнеса.  
 Мы объединяем **минимализм, скорость и инновации**, чтобы превращать идеи в простые и мощные цифровые продукты.
