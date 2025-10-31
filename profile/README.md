@@ -3,12 +3,18 @@
   <h1><img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/anidzen/TRANSPARENT_TRANSPARENT_RING.png" height="20px"/> Anidzen Labs <img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/anidzen/TRANSPARENT_TRANSPARENT_RING.png" height="20px"/></h1>  
 </div>
 
-<div>
-  [![Website](https://img.shields.io/badge/website-vahe.anidzen.com-blue?style=flat-square)](https://vahe.anidzen.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vahe%20Sargsyan-blue?style=flat-square)](https://www.linkedin.com/in/vahe-sargsyan-ba5028271)
-  [![Telegram](https://img.shields.io/badge/Telegram-@Vahesargsyan2005-blue?style=flat-square)](https://t.me/Vahesargsyan2005)
-
+<div align="center">
+  <a href="https://vahe.anidzen.com">
+    <img src="https://img.shields.io/badge/website-vahe.anidzen.com-blue?style=flat-square" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vahe-sargsyan-ba5028271">
+    <img src="https://img.shields.io/badge/LinkedIn-Vahe%20Sargsyan-blue?style=flat-square" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/Vahesargsyan2005">
+    <img src="https://img.shields.io/badge/Telegram-@Vahesargsyan2005-blue?style=flat-square" alt="Telegram"/>
+  </a>
 </div>
+
  **Anidzen Labs** — технологическая студия, создающая современные open-source решения, продукты и инструменты для любых целей. Мы объединяем минимализм, скорость и инновации, превращая идеи в простые, мощные и эстетичные цифровые продукты.
 
 ---
