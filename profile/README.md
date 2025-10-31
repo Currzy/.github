@@ -25,7 +25,7 @@
 
 | Project | Description | Status |
 |----------|--------------|---------|
-| [**currzy**](https://github.com/anidzen-labs/currzy) | 💱 Free, open-source library for fetching, managing, and converting up-to-date currency rates from multiple reliable sources | ✅ Active |
+| [**currzy**](https://github.com/anidzen-labs/currzy) | 💱 Free, open-source library for fetching, managing, and converting up-to-date currency rates from multiple reliable sources | ✅ |
 | *(more coming soon...)* |  |  |
 
 
