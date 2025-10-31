@@ -38,9 +38,8 @@
     <td>
        💱 Free library for fetching, managing, and converting up-to-date currency rates
     </td>
-    <td align="center">
+    <td>
       <img src="https://img.shields.io/github/v/release/anidzen-labs/Currzy-js?color=blue" alt="npm version"/>
-      ✅ Active
     </td>
   </tr>
 </table>
