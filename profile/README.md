@@ -29,26 +29,9 @@
 
 | | Project | Description |
 |--|---------|-------------|
-| [<img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/currzy/currenzy.png" width="20"/>](https://github.com/anidzen-labs/Currzy-js) | Currzy | Free, open-source library for fetching, managing, and converting up-to-date currency rates from multiple reliable sources with the ability to easily choose the source. |
+| [<img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/currzy/currenzy.png" width="30"/>](https://github.com/anidzen-labs/Currzy-js) | Currzy | Free, open-source library for fetching, managing, and converting up-to-date currency rates from multiple reliable sources with the ability to easily choose the source. |
 
 ---
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/anidzen-labs/Currzy-js">
-        <img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/currzy/currenzy.png" width="20" style="vertical-align:middle"/> 
-      </a>
-    </td>
-    <td>
-      <b>Currzy</b>
-    </td>
-    <td>
-      Free, open-source library for fetching, managing, and converting up-to-date currency rates from multiple reliable sources.
-    </td>
-  </tr>
-</table>
-
 
 <div align="center">
   <sub>© 2025 Anidzen Labs — Innovation through simplicity.</sub>
