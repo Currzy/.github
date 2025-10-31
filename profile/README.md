@@ -28,12 +28,6 @@
 ### 🚀 Our Projects & Collaborations
 
 <table>
-  <tr>
-    <th>Project</th>
-    <th>Icon</th>
-    <th>Type</th>
-    <th>Status</th>
-  </tr>
   <tr align="center">
     <td><a href="https://github.com/anidzen-labs/currzy"><b>currzy</b></a></td>
     <td><img src="https://img.icons8.com/color/48/000000/currency-exchange.png" width="32"/></td>
