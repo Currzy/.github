@@ -35,7 +35,7 @@
         <b>Currzy</b>
       </a>
     </td>
-    <td align="center">
+    <td>
        Free, open-source library for fetching, managing, and converting up-to-date currency rates from multiple reliable sources with the ability to easily choose the source.
     </td>
   </tr>
