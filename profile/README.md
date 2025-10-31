@@ -32,14 +32,14 @@
     <td>
       <a href="https://github.com/anidzen-labs/Currzy-js">
         <img src="https://img.icons8.com/color/48/000000/currency-exchange.png" width="32" style="vertical-align:middle"/> 
-        <b>currzy</b>
+        <b>Currzy</b>
       </a>
     </td>
     <td>
        💱 Free library for fetching, managing, and converting up-to-date currency rates
     </td>
     <td>
-      <img src="https://img.shields.io/github/v/release/anidzen-labs/Currzy-js?color=blue" alt="npm version"/>
+      <img src="https://img.shields.io/github/v/release/anidzen-labs/Currzy-js?color=red" alt="Currzy version"/>
     </td>
   </tr>
 </table>
