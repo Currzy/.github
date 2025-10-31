@@ -1,6 +1,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/anidzen/TRANSPARENT_WHITE_RING.png" height="100px">
-  <h1><img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/anidzen/TRANSPARENT_TRANSPARENT_RING.png" height="20px"/> Anidzen Labs <img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/anidzen/TRANSPARENT_TRANSPARENT_RING.png" height="20px"/></h1>  
+  <h1>
+    <img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/anidzen/TRANSPARENT_TRANSPARENT_RING.png" height="20px"/> 
+    Anidzen Labs 
+    <img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/anidzen/TRANSPARENT_TRANSPARENT_RING.png" height="20px"/>
+  </h1>  
 </div>
 
 <div align="center">
@@ -23,11 +27,27 @@
 
 ### 🚀 Our Open Source Projects
 
-| Project | Description | Status |
-|----------|--------------|---------|
-| [**currzy**](https://github.com/anidzen-labs/currzy) | 💱 Free, open-source library for fetching, managing, and converting up-to-date currency rates from multiple reliable sources | ✅ |
-| *(more coming soon...)* |  |  |
+<div align="center">
 
+<a href="https://github.com/anidzen-labs/currzy" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/currency-exchange.png" width="48"/><br>
+  <b>currzy</b><br>
+  💱 Free library for fetching, managing, and converting up-to-date currency rates<br>
+  ✅ Active
+</a>
+
+<br><br>
+
+<a href="#" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/code.png" width="48"/><br>
+  <b>project-name</b><br>
+  🛠 Description of the project<br>
+  🔄 Ongoing
+</a>
+
+</div>
+
+---
 
 <div align="center">
   <sub>© 2025 Anidzen Labs — Innovation through simplicity.</sub>
