@@ -36,7 +36,7 @@
       </a>
     </td>
     <td>
-       💱 Free library for fetching, managing, and converting up-to-date currency rates
+       Free, open-source library for fetching, managing, and converting up-to-date currency rates from multiple reliable sources with the ability to easily choose the source.
     </td>
     <td>
       <img src="https://img.shields.io/github/v/release/anidzen-labs/Currzy-js?color=red" alt="Currzy version"/>
