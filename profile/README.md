@@ -27,7 +27,7 @@
 
 ### 🚀 Our Projects & Collaborations
 
-<table align="center">
+<table>
   <tr>
     <th>Project</th>
     <th>Icon</th>
