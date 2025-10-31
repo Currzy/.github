@@ -34,5 +34,5 @@
 ---
 
 <div align="center">
-  <sub>© 2025 Anidzen Labs — Innovation through simplicity.</sub>
+  <sub>© 2024 - 2025 Anidzen Labs — Innovation through simplicity.</sub>
 </div>
