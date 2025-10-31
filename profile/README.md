@@ -46,4 +46,3 @@
 <div align="center">
   <sub>© 2025 Anidzen Labs — Innovation through simplicity.</sub>
 </div>
-![npm](https://img.shields.io/npm/dt/currzy?color=blue&label=npm%20downloads)
