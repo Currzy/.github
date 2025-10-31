@@ -27,18 +27,18 @@
 
 ### 🚀 Our Projects & Collaborations
 
-### 🚀 Our Projects & Collaborations
-
-<table align="center">
+<table>
   <tr>
-    <td align="center">
+    <td>
       <a href="https://github.com/anidzen-labs/currzy">
         <img src="https://img.icons8.com/color/48/000000/currency-exchange.png" width="32" style="vertical-align:middle"/> 
         <b>currzy</b>
       </a>
-      <br>
-      💱 Free library for fetching, managing, and converting up-to-date currency rates
-      <br>
+    </td>
+    <td>
+       💱 Free library for fetching, managing, and converting up-to-date currency rates
+    </td>
+    <td>
       <i>Version: 1.0.0 | ✅ Active</i>
     </td>
   </tr>
