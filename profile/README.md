@@ -4,15 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://vahe.anidzen.com">
-    <img src="https://img.shields.io/badge/website-vahe.anidzen.com-blue?style=flat-square" alt="Website"/>
-  </a>ㅤ
-  <a href="https://www.linkedin.com/in/vahe-sargsyan-ba5028271">
-   <img src="https://img.shields.io/badge/LinkedIn-Vahe%20Sargsyan-blue?style=flat-square" alt="LinkedIn"/>
-  </a>ㅤ
-    <a href="https://t.me/Vahesargsyan2005">
-    <img src="https://img.shields.io/badge/Telegram-@Vahesargsyan2005-blue?style=flat-square" alt="Telegram"/>
-  </a>
+
   <a href="https://t.me/Vahesargsyan2005">
     <img src="https://img.shields.io/badge/Telegram-@Vahesargsyan2005-blue?style=flat-square" alt="Telegram"/>
   </a>
