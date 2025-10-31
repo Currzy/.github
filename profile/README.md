@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/anidzen/TRANSPARENT_WHITE_RING.png" weight="10px" height="100px">
+  <img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/anidzen/TRANSPARENT_WHITE_RING.png" height="100px">
   <h1>💸 Currzy — currency library 💸</h1> 
 </div>
 
