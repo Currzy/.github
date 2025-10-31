@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td>
-        <img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/currzy/currenzy.png" width="30"/> Currzy
+        <img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/currzy/currenzy.png" width="30"/>
     </td>
     <td>
        Free, open-source library for fetching, managing, and converting up-to-date currency rates from multiple reliable sources with the ability to easily choose the source.
