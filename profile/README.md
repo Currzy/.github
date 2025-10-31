@@ -1,7 +1,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/anidzen/TRANSPARENT_WHITE_RING.png" height="100px">
-  <h1><img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/anidzen/TRANSPARENT_TRANSPARENT_RING.png" height="20px"/> Anidzen Labs <img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/anidzen/TRANSPARENT_TRANSPARENT_RING.png" height="20px"/></h1> 
+  <h1><img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/anidzen/TRANSPARENT_TRANSPARENT_RING.png" height="20px"/> Anidzen Labs <img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/anidzen/TRANSPARENT_TRANSPARENT_RING.png" height="20px"/></h1>  
 </div>
+
+[![Website](https://img.shields.io/badge/website-vahe.anidzen.com-blue?style=flat-square)](https://vahe.anidzen.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vahe%20Sargsyan-blue?style=flat-square)](https://www.linkedin.com/in/vahe-sargsyan-ba5028271)
+[![Telegram](https://img.shields.io/badge/Telegram-@Vahesargsyan2005-blue?style=flat-square)](https://t.me/Vahesargsyan2005)
 
  **Anidzen Labs** — технологическая студия, создающая современные open-source решения, продукты и инструменты для любых целей. Мы объединяем минимализм, скорость и инновации, превращая идеи в простые, мощные и эстетичные цифровые продукты.
 
