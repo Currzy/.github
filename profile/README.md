@@ -27,26 +27,35 @@
 
 ### 🚀 Our Projects & Collaborations
 
-<table>
-  <tr align="center">
-    <td><a href="https://github.com/anidzen-labs/currzy"><b>currzy</b></a></td>
-    <td><img src="https://img.icons8.com/color/48/000000/currency-exchange.png" width="32"/></td>
-    <td>Open Source</td>
-    <td>✅ Active</td>
-  </tr>
-  <tr align="center">
-    <td><a href="https://github.com/anidzen-labs/hentai-voice"><b>Hentai-Voice</b></a></td>
-    <td><img src="https://img.icons8.com/color/48/000000/microphone.png" width="32"/></td>
-    <td>Collaboration</td>
-    <td>🔄 Ongoing</td>
-  </tr>
-  <tr align="center">
-    <td><a href="https://github.com/anidzen-labs/hentasis"><b>Hentasis</b></a></td>
-    <td><img src="https://img.icons8.com/color/48/000000/paint-palette.png" width="32"/></td>
-    <td>Collaboration</td>
-    <td>🔄 Ongoing</td>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/anidzen-labs/currzy">
+        <img src="https://img.icons8.com/color/48/000000/currency-exchange.png" width="32" style="vertical-align:middle"/> 
+        <b>currzy</b>
+      </a>
+      <br>💱 Free library for fetching, managing, and converting up-to-date currency rates<br>
+      ✅ Active
+    </td>
+    <td align="center">
+      <a href="https://github.com/anidzen-labs/hentai-voice">
+        <img src="https://img.icons8.com/color/48/000000/microphone.png" width="32" style="vertical-align:middle"/> 
+        <b>Hentai-Voice</b>
+      </a>
+      <br>🎙 Voice synthesis project for anime/hentai content<br>
+      🔄 Ongoing
+    </td>
+    <td align="center">
+      <a href="https://github.com/anidzen-labs/hentasis">
+        <img src="https://img.icons8.com/color/48/000000/paint-palette.png" width="32" style="vertical-align:middle"/> 
+        <b>Hentasis</b>
+      </a>
+      <br>🖌 Creative platform for hentai content and community<br>
+      🔄 Ongoing
+    </td>
   </tr>
 </table>
+
 
 
 ---
