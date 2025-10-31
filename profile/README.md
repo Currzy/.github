@@ -25,27 +25,35 @@
 
 ---
 
-### 🚀 Our Open Source Projects
+### 🚀 Our Projects & Collaborations
 
-<div align="center">
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Icon</th>
+    <th>Type</th>
+    <th>Status</th>
+  </tr>
+  <tr align="center">
+    <td><a href="https://github.com/anidzen-labs/currzy"><b>currzy</b></a></td>
+    <td><img src="https://img.icons8.com/color/48/000000/currency-exchange.png" width="32"/></td>
+    <td>Open Source</td>
+    <td>✅ Active</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://github.com/anidzen-labs/hentai-voice"><b>Hentai-Voice</b></a></td>
+    <td><img src="https://img.icons8.com/color/48/000000/microphone.png" width="32"/></td>
+    <td>Collaboration</td>
+    <td>🔄 Ongoing</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://github.com/anidzen-labs/hentasis"><b>Hentasis</b></a></td>
+    <td><img src="https://img.icons8.com/color/48/000000/paint-palette.png" width="32"/></td>
+    <td>Collaboration</td>
+    <td>🔄 Ongoing</td>
+  </tr>
+</table>
 
-<a href="https://github.com/anidzen-labs/currzy" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/currency-exchange.png" width="48"/><br>
-  <b>currzy</b><br>
-  💱 Free library for fetching, managing, and converting up-to-date currency rates<br>
-  ✅ Active
-</a>
-
-<br><br>
-
-<a href="#" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/code.png" width="48"/><br>
-  <b>project-name</b><br>
-  🛠 Description of the project<br>
-  🔄 Ongoing
-</a>
-
-</div>
 
 ---
 
