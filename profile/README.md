@@ -31,7 +31,7 @@
   <tr>
     <td>
       <a href="https://github.com/anidzen-labs/Currzy-js">
-        <img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/currzy/currenzy.png" width="30"/> &nbsp; <b>Currzy</b>
+        <img src="https://raw.githubusercontent.com/anidzen-labs/Design-assets/refs/heads/main/currzy/currenzy.png" width="30"/> &nbsp; Currzy
       </a>
     </td>
     <td>
