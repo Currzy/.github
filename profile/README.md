@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Telegram-@AnidzenLabs-blue?style=flat-square" alt="Telegram"/>
   </a>
   <a href="https://t.me/Vahesargsyan2005">
-    <img src="https://img.shields.io/badge/Telegram-@Vahesargsyan2005-blue?style=flat-square" alt="FonderTelegram"/>
+    <img src="https://img.shields.io/badge/Telegram-@Vahesargsyan2005-red?style=flat-square" alt="FonderTelegram"/>
   </a>
 </div>
 
